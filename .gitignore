@@ -1,0 +1,22 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+.ipynb_checkpoints
+
+# Any large dataset files #
+###########################
+ROOT_files/*.root
+
+# Any generated plots or pdf #
+##############################
+*.png
+*.pdf
+
+# ignore similar analysis code #
+################################
+nue/marina.ipynb
+
+# Any .csv for storing dfs #
+############################
+*.csv
