@@ -17,6 +17,7 @@ ROOT_files/*.root
 ################################
 nue/marina.ipynb
 
-# Any .csv for storing dfs #
-############################
+# Any .csv or .hdf5 for storing dfs #
+#####################################
 *.csv
+*.hdf5
