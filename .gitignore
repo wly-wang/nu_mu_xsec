@@ -6,7 +6,7 @@
 
 # Any large dataset files #
 ###########################
-ROOT_files/*.root
+ROOT_files/
 
 # Any generated plots or pdf #
 ##############################
