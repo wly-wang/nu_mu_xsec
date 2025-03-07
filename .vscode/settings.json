@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "protodune_draw.C": "cpp",
+        "protodune_draw_insideTPC.C": "cpp",
+        "protodune_draw_outsideTPC.C": "cpp",
+        "dune10kt_v1_checkOvlp.C": "cpp",
+        "dune10kt_checkOvlaps.C": "cpp"
+    }
+}
