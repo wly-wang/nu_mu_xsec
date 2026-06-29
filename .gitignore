@@ -21,3 +21,15 @@ nue/marina.ipynb
 #####################################
 *.csv
 *.hdf5
+
+# Any venv folder #
+###################
+.venv
+
+# dataframe folder #
+####################
+dfs/
+
+# Model xml folder #
+####################
+models/
